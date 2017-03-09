@@ -15,3 +15,10 @@
 ![momentum](img/1_momentum.png)
 ![learning-rate-decay](img/1_learning_rate.png)
 ![sgd-black-magic](img/1_sgd_black_magic.png)
+
+# Deep Neural Network
+
+![graph-chain-rule](img/3_graph_chain_rule.png)
+
+# Reading / References
+- [A Guide to Convolution Arithmetic for Deep Learning](https://arxiv.org/pdf/1603.07285v1.pdf)
