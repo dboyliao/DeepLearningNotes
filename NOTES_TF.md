@@ -38,6 +38,7 @@ with tf.Session(graph=graph) as session:
   - and more....
 - `tf.nn.softmax_cross_entropy_with_logits`: softmax cross entropy.
 - `tf.Tensor.eval(self, feed_dict=None, session=None)`: evaluate a tensor. If `feed_dict` is not given, it will return the current value in the graph.
+  - It can be used only within a `session`.
 
 ## Snippets
 
